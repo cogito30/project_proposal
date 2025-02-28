@@ -6,6 +6,7 @@ practice web product manage with figma and powerpoint, word, excel
 project/
 |- Yggdrasil/
     |- Yggdrasil_기능정의서_v0.01_250101.pptx
+    |- Yggdrasil_기능정의서_v0.01_250101.xlsx
 |- Yggdrasil_Edu/
 |- Yggdrasil_Dev/
 
